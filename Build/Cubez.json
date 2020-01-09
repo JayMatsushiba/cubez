@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CubeGame",
+"dataUrl": "Cubez.data.unityweb",
+"wasmCodeUrl": "Cubez.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cubez.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#D9D9D9",
+"cacheControl": {"default": "must-revalidate"}
+}
